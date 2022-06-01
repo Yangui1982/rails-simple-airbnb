@@ -1,0 +1,21 @@
+.navbar-lewagon {
+  height: 100px;
+  justify-content: space-between;
+  background: white;
+  border-bottom: 1px solid grey;
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: whitesmoke;
+}
+
+.button {
+  border-radius: 50px;
+  background-color: #0d6efd;
+  text-align: center;
+  width: 130px;
+}
